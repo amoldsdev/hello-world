@@ -17,8 +17,10 @@ public class Greeter {
   
   public void getter() {
 	  
-  }
+	  
+  }	
   public void setter() {
+	  
 	  
   }
 
