@@ -14,6 +14,13 @@ public class Greeter {
   public Greeter() {
 
   }
+  
+  public void getter() {
+	  
+  }
+  public void setter() {
+	  
+  }
 
   //TODO: Add javadoc comment
   public String greet(String someone) {
