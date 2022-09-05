@@ -8,6 +8,9 @@ public class Greeter {
   /**
    * This is a constructor.
    */
+	
+  private String name;
+  private String age;
   public Greeter() {
 
   }
